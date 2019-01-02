@@ -1,0 +1,2 @@
+#!/bin/sh
+adb shell dpm set-device-owner　'com.android.cts.verifier/com.android.cts.verifier.managedprovisioning.DeviceAdminTestReceiver'

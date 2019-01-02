@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "android-partner-api-188019",
+  "private_key_id": "ce5b1beb2f882563abbe649175b77439dbbd87c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0MyFhMx43zRrr\nQB3UnSZuh9/TNMJ99Ylmrce9sh2LUV4MFLmHdF7xT0UDh4sbmhbHXfNq+YSGlrsF\nUbilZQwNfWD0W8Z4SlWUgfNlKjcOibiTy0gy/SydDgeK722ytqd6FT2lsQuojjim\nqjpbq+FO0nn/TMTkHYcu51s/ELX3DK198u+ZmWIc/HexvIunxBORkYxQAs6Ek6Wa\nzG527a2J95hVH8ox9n9xEdzAcuVSApZUdCoFQBvdj/aukvcSC7vx+D6lYMHSeK+c\ngx+HIVfcUw5CdkDaeBZecmAKry6e//IBmiuRoHkLltKmsICQt1Qzbcr9AzervGUp\nyy8DCFtvAgMBAAECggEAE3fstMwpiRzTOjRgpK5fzxRF9dMe6i3jbOD8kf2S3JDr\naMG6c6x6b3bBfYqg2FgS+vInENkpXMMfLIlyOghLP4/asDvUGv3o9hT+H2Fqtlrh\nwrH1OHEK52LzJKsOfn7mZDW0Rdj1af4Hl9YPXQUaYAI0ZQU9xml8R/B99rfO+QRK\nnxJY5VNcpK82oyQ2R+7OX1llcFk++f43/6Bp5x7bSvcpY8VoB5AWIqdKgYvcezXR\nE1e2iESd4evqrpY2j+5j6G98I4vFbO5FNuOs2LhFUc4M8sbX7+CWkGCf99UnGAAD\njRG0u4wNETETxDhqm38xILuwiRHFpParHq84Mixg3QKBgQDk7M007o/d9QmwLm9e\nwSdHczqiROezniLL5DuEG5abwLOzqVGieJpX6nAWcT+4eyFWN4GME0ImPjRZqTnK\nFAF05hML6+avD4WuCFYjeHk9KOw/Hk7vdMg7NlezIRo//NRucJS0iLGcP4QMwvgw\nWVNnHC5+DinujJXeNXGuahP67QKBgQDJgxDeWPRdxnEYc9mydFuGfsZjxUO7dW3n\ncJcK8yqVRclweCVxLOQg6zg2ZdHu/hkVHkZphTG/OZZFqzKzZU1oAjWfqQwgAVjH\nb00LzoxoXEDM5+PA4Ally/RpCCEAc+MJwVDkjysvHWHULabR+2pW2Uh5bmUOO9Qk\nvjZdBjI4SwKBgCj2kpWpJocyBKTI+la7O1sWrGRC7i7+2f0f/uJZyW5fYgiBAMGQ\n0RVwNtRdOWi6Z7G0xvKYs5qCQP3WQSf+wm/3h2r3sFSc82+7wCYitZcTDosQ0lEY\n1Yd65uB/yOGwTRbiAEn5t8ZcuzVJYf3MzhbCPTODN0+fSmXzrD7obmDVAoGACLOe\nMNvKgZomHBY0ml4n7aDf1EMab6fcfRgBjbl+Zz/CORcXFtIHb9x4avDupdFXJ/BM\nvhXAVi+Ya52+7Lw9IXam9iQIoAEu4j3OJ+pdacxCCBcjYJrMDRdHkJmHQ0u9zBgK\n9DOye7BbHxxxjbO7ndB4LrYzqu+uc3+7PT0dQg0CgYBCRlHL9rE8EiPMtTnv74zg\nh5azQrUgqrzhr4EgaYj3xPp0Q78oz/Li3mO1sEZep6prNODPvX7eoIFLFFwujdvs\nQHEB3T4nioBN9E5T2PgeO4VtqkOZtImXBONr5ZaJeM9c7iAOkTqg91WK+ikXqe5e\nra5WhPG0QA33iX72vE1Log==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gts-mediatek@android-partner-api-188019.iam.gserviceaccount.com",
+  "client_id": "101302566627021384589",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gts-mediatek%40android-partner-api-188019.iam.gserviceaccount.com"
+}

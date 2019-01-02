@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "android-partner-api-188019",
+  "private_key_id": "a6425be3fdc4a10e6bf9c33f2195c946196f23fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4vq7eT2JMHRcz\nFFTuTvvSgl/uENxyvXrcUdgRaOHSYO4MSe9SpgCM2udddewN9Z8eVLFNKMP1s93P\nnjyvonfcRvAFCbqAER9E99IzVFwheIJvNQabo2HjWVHgGL5jWccc+Y9h5vOVjbIz\nuj9etmp5uaHjxk2m+1FeLoi3jVTVPoRlrNNri2FhRafAaROxtZLGteJ9Fbogqx7K\nRfQ/CEwWfgGa/wkYlGi60git298ZWDeKwJfjp2nhBtrypgYnhXHKvBck0+7IoSH9\nIej2Pdaow6c1hmVSQfrYOay49VB7E6viVtBlbsHFPFR0FWwOdZeDst5SrAHWmdzI\nWJatV71bAgMBAAECggEAC6y1JURT/GZcOHSg91xTapallEhJfhC+Slz7sAH2P1Kz\nyGAFuS3XXA9bTpssmyc58nM8rxkT5RuEOWIRCLJWK7vp4A+g0wYB+VxF0suSdOUG\nLRvnOn+lKHZVB7nYkjOyswCMUI4FN564M6+h4Izbhqy178xwzMwV9MMxDZRnV4Bb\n5GCb0d39KafR9LTspkWZ22l3S1q0vIlk7EOiTS5tXltPl4aKwciYGnMX8clKFb1O\nJW1+LrlBVsILtJrp3U0dOLh5+YP86E+rG07/VQJTZQbg3hYMY/Gjn4qRhhls51X0\n3ceoaACQnVRSNpPkf079P6GOjJyuyEU4Si0zvEVBdQKBgQDeTPst9Tzm6QnqUs6X\niRLH142B7rFTjIt/ldXwdTIOqO8DZLTzfUHyrYhQ73G4dGitBn2hwxDfqeNDlF9J\nYwIrSFqP3TlCddpDr+lRKFr6Yza4V40JjVC1RZf22dlhn5l++CvrRM/a6iHqGyeM\n262KMDW7b2u47vkmpX5z3EuJ5QKBgQDUwD0tg8svW4WpbgsmEk5JL+sLqqv5li+q\nOo22STBsLBZOPVPtGU6S6oF63XYeqyec5Eeu75Lrgj/XnSn+/MOnEmy8SP9PXlTM\nAZ3tYmn1n8/iKqihtirQ26b9z9gnjhCOCi91LG3IqqU+3jE2f06lqF7eFDlOcKMO\ngTXvLFi2PwKBgQCsu8yBTYnhMztNJML65Lv/JPMD/2Eytoa+wMLYcXhQA9yVGm+w\ns6fG1iiSGzyWQ34C1IRSaax23x+Ep4nTEGfjEfmsyA1yIvlSlyIIuf7XiLhATWd+\nAJyx/j2yxlwvi0BOdLBLw9BvHnbz3d3BigEy23slBdMChE59RSMZDBh2MQKBgBkB\ni29JGV20nS4/7/GGn0r85dyWL+aDH5EblsKBMb7VI74IeU/Z9KFSDOv7EcIjDeHj\n9wT5xcQGqChYobIF1Z1SjhNHZTLX/JGJ8x0OvzOOmCmWKAHx3nB0ENmuT1K+4PVA\n/zj/gtveKtQL267zIbRY6OWjbOTqWk//Ie69wKOTAoGBAJXUUvB2S9YSsyYN5wGD\nfAr9k0lPne52wJZSp7Z6Eby47gjGaps0yBSAM7RqWa3q2Ak9vbDZ7Bz0C0wfz/6p\nQolorHxQCQIIfOjkSSb4CrisZDel9soNC2dDqOJutsxTBuFJhxa1Ee0km4ljhYOc\n8C7alS3e0h3DZ9mWiTgy356X\n-----END PRIVATE KEY-----\n",
+  "client_email": "gts-fih-public@android-partner-api-188019.iam.gserviceaccount.com",
+  "client_id": "113099932320557264869",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gts-fih-public%40android-partner-api-188019.iam.gserviceaccount.com"
+}

@@ -1,0 +1,325 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P311"/>
++  <project name="mt6737n/platform/build" path="build" revision="28ef5f6734542c3146bacd059728c193364a8311" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P311">
++
++  <project name="mt6737n/platform/device" path="device" revision="896137a9a9e1d2981d4fd2f66290dd218fc33140" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P311"/>
++
++  <project name="mt6737n/platform/external" path="external" revision="eb96d3bfcef1e187932bb9d7c90be41f7350dccd" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P311"/>
++
++  <project name="mt6737n/platform/vendor/tinno" path="vendor/tinno" revision="75831f80c075047014b12eaab9087400a41f6fa9" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P311"/>
++
++</manifest>
+
+ <manifest>
+   <remote fetch="gerrit207:" name="tinno"/>
+   
+   <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P311"/>
+-  <project name="mt6737n/platform/build" path="build" revision="28ef5f6734542c3146bacd059728c193364a8311" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P311">
++  <project name="mt6737n/platform/build" path="build" revision="28ef5f6734542c3146bacd059728c193364a8311" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P311"/>
+ 
+   <project name="mt6737n/platform/device" path="device" revision="896137a9a9e1d2981d4fd2f66290dd218fc33140" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P311"/>
+ 
+   <project name="mt6737n/platform/external" path="external" revision="eb96d3bfcef1e187932bb9d7c90be41f7350dccd" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P311"/>
+ 
+   <project name="mt6737n/platform/vendor/tinno" path="vendor/tinno" revision="75831f80c075047014b12eaab9087400a41f6fa9" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P311"/>
+ 
+-</manifest>
+\ No newline at end of file
++</manifest>
+
+
+@@ -0,0 +1,16 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P312"/>
++  <project name="mt6737n/platform/device" path="device" revision="ffef4c3abcf1eb9e2d8ae45c4ead0b5b4fa0a0d4" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P312"/>
++
++  <project name="mt6737n/platform/frameworks" path="frameworks" revision="c2ca8b755b7a18fb5f6609620d438a7ac2a23587" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P312"/>
++
++  <project name="mt6737n/platform/packages" path="packages" revision="21ced61034289253b88d2b95bcafe25b83c1578d" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P312"/>
++
++  <project name="mt6737n/platform/vendor/mediatek" path="vendor/mediatek" revision="664617437bb7e7f15d581bb5fc0b5a1bd65686e7" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P312"/>
++
++  <project name="mt6737n/platform/vendor/tinno" path="vendor/tinno" revision="4b0483f4afe75ea1404444a2cfb686087e72a10d" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P312"/>
++
++</manifest>
+\ No newline at end of file
+
+@@ -0,0 +1,18 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P313"/>
++  <project name="mt6737n/platform/device" path="device" revision="256a6064860812ee83b140710bfc9535202b4f2c" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P313"/>
++
++  <project name="mt6737n/platform/external" path="external" revision="fd1f6ed22f3c244e655f8abe0c9adf8746a79547" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P313"/>
++
++  <project name="mt6737n/platform/frameworks" path="frameworks" revision="64866e27d4137af03f298b668578489900a497fe" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P313"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="2b4b3b5a6ebede59e998580f146d11beed9b0976" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P313"/>
++
++  <project name="mt6737n/platform/packages" path="packages" revision="79b9043a08fa603eb3c172ba430aa7cb74c355a6" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P313"/>
++
++  <project name="mt6737n/platform/system" path="system" revision="269bdec729c95e9dd38c5f5b11eb5f748ad75542" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P313"/>
++
++</manifest>
+\ No newline at end of fil
+
+@@ -0,0 +1,18 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P314"/>
++  <project name="mt6737n/platform/device" path="device" revision="ec28473d6c3f66b483d8dc15a8cdb4e2c168dc51" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P314"/>
++
++  <project name="mt6737n/platform/external" path="external" revision="3a007aadc187bc70e3abb451eccb413d8ce035b5" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P314"/>
++
++  <project name="mt6737n/platform/frameworks" path="frameworks" revision="302d60fd89b06285e601b0a14421c8a4b4623d00" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P314"/>
++
++  <project name="mt6737n/platform/kernel-3.18" path="kernel-3.18" revision="cf5e0f1c2e339aef7d883d33ceccce0028a685cf" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P314"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="2b4b3b5a6ebede59e998580f146d11beed9b0976" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P314"/>
++
++  <project name="mt6737n/platform/system" path="system" revision="655934347073f09ca931b62438e6f32ff33005c9" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P314"/>
++
++</manifest>
+\ No newline at end of file
+
+\ No newline at end of file
+
+
+@@ -0,0 +1,18 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P315"/>
++  <project name="mt6737n/platform/device" path="device" revision="00d66ba8eb2d33841e41c35779bb8edcdd9ca74a" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P315"/>
++
++  <project name="mt6737n/platform/frameworks" path="frameworks" revision="418cba5a116d3f7dfa4b26960b7fe909d086e572" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P315"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="2b4b3b5a6ebede59e998580f146d11beed9b0976" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P315"/>
++
++  <project name="mt6737n/platform/packages" path="packages" revision="bd295711be0d740dfd4fabcccde7355a928bb193" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P315"/>
++
++  <project name="mt6737n/platform/vendor/mediatek" path="vendor/mediatek" revision="ae3af00b2284b1454f4882a93653edc232d33b57" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P315"/>
++
++  <project name="mt6737n/platform/vendor/tinno" path="vendor/tinno" revision="2964702984619e92c80a96836756898c77905fae" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P315"/>
++
++</manifest>
+\ No newline at end of file
+
+
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P316"/>
++  <project name="mt6737n/platform/build" path="build" revision="4d9082d5e85fc6633a6c5bb5bc3fbc9ffc995bea" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P316">
++
++  <project name="mt6737n/platform/device" path="device" revision="db930a62cba834330fb14ed9b8c0d2fcd90ea4d4" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P316"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="2b4b3b5a6ebede59e998580f146d11beed9b0976" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P316"/>
++
++</manifest>
+\ No newline at end of file
+
+
+
+@@ -1,12 +1,12 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <manifest>
+   <remote fetch="gerrit207:" name="tinno"/>
+   
+   <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P316"/>
+-  <project name="mt6737n/platform/build" path="build" revision="4d9082d5e85fc6633a6c5bb5bc3fbc9ffc995bea" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P316">
++  <project name="mt6737n/platform/build" path="build" revision="4d9082d5e85fc6633a6c5bb5bc3fbc9ffc995bea" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P316"/>
+ 
+   <project name="mt6737n/platform/device" path="device" revision="db930a62cba834330fb14ed9b8c0d2fcd90ea4d4" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P316"/>
+ 
+   <project name="mt6737n/platform/modem" path="modem" revision="2b4b3b5a6ebede59e998580f146d11beed9b0976" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P316"/>
+ 
+-</manifest>
+\ No newline at end of file
++</manifest>
+
+
+@@ -0,0 +1,14 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P317"/>
++  <project name="mt6737n/platform/device" path="device" revision="43fe2740d09ce8be43fad1cea52e37c98cbf6af0" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P317"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="2b4b3b5a6ebede59e998580f146d11beed9b0976" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P317"/>
++
++  <project name="mt6737n/platform/packages" path="packages" revision="b5b661258c4d583ab143320c400ad18c040d0fce" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P317"/>
++
++  <project name="mt6737n/platform/vendor/mediatek" path="vendor/mediatek" revision="b06d705991528557492795e5ac84da9aaa3df728" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P317"/>
++
++</manifest>
+
+index 0000000..b2df5e4
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P318"/>
++  <project name="mt6737n/platform/device" path="device" revision="3268d16f7d417d9b4d688b37bacb83edfdf6e266" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P318"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="2b4b3b5a6ebede59e998580f146d11beed9b0976" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P318"/>
++
++  <project name="mt6737n/platform/vendor/mediatek" path="vendor/mediatek" revision="7864ffbfccb41048489c034b15cf27a96614c28e" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P318"/>
++
++</manifest>
+\ No newline at end of file
+
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P319"/>
++  <project name="mt6737n/platform/device" path="device" revision="e0407bf4a519be4872ed5b6fbf72cc05a61e414f" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P319"/>
++
++  <project name="mt6737n/platform/frameworks" path="frameworks" revision="a9bc9f4690f81df3715171a7d21a33c4f8764e52" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P319"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="695970745a5699235e88a4ed40427f3cf6c2ad39" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P319"/>
++
++</manifest>
+\ No newline at end of file
+
+
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P320"/>
++  <project name="mt6737n/platform/device" path="device" revision="f5a0574c5d51b03d5cd02248bc0c5ec3d5f4165e" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P320"/>
++
++  <project name="mt6737n/platform/frameworks" path="frameworks" revision="8324693162ad1f2a2ac6fce96a17277e45b26e18" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P320"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="695970745a5699235e88a4ed40427f3cf6c2ad39" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P320"/>
++
++  <project name="mt6737n/platform/system" path="system" revision="2b2817ceb32ed9b73253ae25d725f2003cd302a2" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P320"/>
++
++</manifest>
+\ No newline at end of file
+
+
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P321"/>
++  <project name="mt6737n/platform/device" path="device" revision="c6a611662a39d85b1f3048dc0578fe56e2f7dae6" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P321"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="695970745a5699235e88a4ed40427f3cf6c2ad39" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P321"/>
++
++  <project name="mt6737n/platform/vendor/tinno" path="vendor/tinno" revision="a7ad96be927d24a82f598aa764ad40e3e9a6d46a" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P321"/>
++
++</manifest>
+\ No newline at end of file
+\ No newline at end of file
+
+index 0000000..a9658af
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P322"/>
++  <project name="mt6737n/platform/device" path="device" revision="9359d5a2cbb8bba35c6cb719710fb227b6506fcc" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P322"/>
++
++  <project name="mt6737n/platform/external" path="external" revision="2d243be4992adef1784b6a1d6bc53d2eb35feaa4" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P322"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="a3cc4d0d4eead7065607cc517cf8f435062c9188" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P322"/>
++
++</manifest>
+\ No newline at end of file
+
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P323"/>
++  <project name="mt6737n/platform/device" path="device" revision="cc5d0d93840ebc28e07800cfc53d27862ec235fb" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P323"/>
++
++  <project name="mt6737n/platform/frameworks" path="frameworks" revision="0be7514adb8f6d919b56e330ca144e0e1106001d" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P323"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="a3cc4d0d4eead7065607cc517cf8f435062c9188" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P323"/>
++
++</manifest>
+\ No newline at end of file
+
+
+
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P324"/>
++  <project name="mt6737n/platform/device" path="device" revision="b829a248e549e733d5fb925367105b5f8b754633" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P324"/>
++
++  <project name="mt6737n/platform/kernel-3.18/drivers" path="kernel-3.18/drivers" revision="7623759ed497a21a67efbb7c38791812b27f538d" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P324"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="a3cc4d0d4eead7065607cc517cf8f435062c9188" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P324"/>
++
++</manifest>
+\ No newline at end of file
+
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P325"/>
++  <project name="mt6737n/platform/build" path="build" revision="f8bd426a6877f355503d6775e9600323f6adc54d" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P325">
++
++  <project name="mt6737n/platform/device" path="device" revision="9600c1251127978f46e5468afb6919aeb50ed3f0" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P325"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="a3cc4d0d4eead7065607cc517cf8f435062c9188" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P325"/>
++
++</manifest>
+\ No newline at end of file
+
+ <?xml version="1.0" encoding="UTF-8"?>
+ <manifest>
+   <remote fetch="gerrit207:" name="tinno"/>
+   
+   <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P325"/>
+-  <project name="mt6737n/platform/build" path="build" revision="f8bd426a6877f355503d6775e9600323f6adc54d" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P325">
++  <project name="mt6737n/platform/build" path="build" revision="f8bd426a6877f355503d6775e9600323f6adc54d" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P325"/>
+ 
+   <project name="mt6737n/platform/device" path="device" revision="9600c1251127978f46e5468afb6919aeb50ed3f0" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P325"/>
+ 
+   <project name="mt6737n/platform/modem" path="modem" revision="a3cc4d0d4eead7065607cc517cf8f435062c9188" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P325"/>
+ 
+-</manifest>
+\ No newline at end of file
++</manifest>
+
+
++<?xml version="1.0" encoding="UTF-8"?>
++<manifest>
++  <remote fetch="gerrit207:" name="tinno"/>
++  
++  <default remote="tinno" revision="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P326"/>
++  <project name="mt6737n/platform/device" path="device" revision="17272f36b5542d917227863181e3df85b9a22e90" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P326"/>
++
++  <project name="mt6737n/platform/kernel-3.18" path="kernel-3.18" revision="b5e3a8bc2b5db125783d2b1ad7115b7883550cc8" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P326"/>
++
++  <project name="mt6737n/platform/modem" path="modem" revision="a3cc4d0d4eead7065607cc517cf8f435062c9188" upstream="refs/tags/tinno6737t_65_n_alps-mp-n0.mp1-V1.0.2_P326"/>
++
++</manifest>
+\ No newline at end of file

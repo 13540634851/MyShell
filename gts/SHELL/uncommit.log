@@ -1,0 +1,1000 @@
+project abi/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project art/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project baseline/vendor/tinno/requirment/lax_mx/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project bionic/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project bootable/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project build/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project cts/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project dalvik/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project developers/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project development/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project device/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 68 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project device/tinno/v3911/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project device/tinno/v3913/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project device/tinno/v3951/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project device/tinno/v3953/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project device/tinno/v3961/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project device/tinno/v3963/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project device/tinno/v3971/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project device/tinno/v3973/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project device/tinno/v3991/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project docs/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project external/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 6 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project frameworks/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 11 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project hardware/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	include/linux/flash_info.h
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+project kernel-3.18/arch/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   misc/mediatek/imgsensor/src/mt6735m/camera_project/v3911 (new commits)
+	modified:   misc/mediatek/imgsensor/src/mt6735m/camera_project/v3913 (new commits)
+	modified:   misc/mediatek/imgsensor/src/mt6735m/camera_project/v3951 (new commits)
+	modified:   misc/mediatek/imgsensor/src/mt6735m/camera_project/v3953 (new commits)
+	modified:   misc/mediatek/imgsensor/src/mt6735m/camera_project/v3961 (new commits)
+	modified:   misc/mediatek/imgsensor/src/mt6735m/camera_project/v3963 (new commits)
+	modified:   misc/mediatek/imgsensor/src/mt6735m/camera_project/v3971 (new commits)
+	modified:   misc/mediatek/imgsensor/src/mt6735m/camera_project/v3973 (new commits)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+project kernel-3.18/drivers/misc/mediatek/imgsensor/src/mt6735m/camera_project/v3911/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/imgsensor/src/mt6735m/camera_project/v3913/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/imgsensor/src/mt6735m/camera_project/v3951/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/imgsensor/src/mt6735m/camera_project/v3953/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/imgsensor/src/mt6735m/camera_project/v3961/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/imgsensor/src/mt6735m/camera_project/v3963/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/imgsensor/src/mt6735m/camera_project/v3971/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/imgsensor/src/mt6735m/camera_project/v3973/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/imgsensor/src/mt6735m/camera_project/v3991/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/include/mt-plat/mt6735/v3911/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/include/mt-plat/mt6735/v3913/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/include/mt-plat/mt6735/v3951/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/include/mt-plat/mt6735/v3953/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/include/mt-plat/mt6735/v3961/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/include/mt-plat/mt6735/v3963/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/include/mt-plat/mt6735/v3971/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/include/mt-plat/mt6735/v3973/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/include/mt-plat/mt6735/v3991/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/mach/mt6735/v3911/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/mach/mt6735/v3913/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/mach/mt6735/v3951/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/mach/mt6735/v3953/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/mach/mt6735/v3961/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/mach/mt6735/v3963/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/mach/mt6735/v3971/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/mach/mt6735/v3973/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/drivers/misc/mediatek/mach/mt6735/v3991/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project kernel-3.18/sound/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project libcore/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project libnativehelper/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project modem/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	build/
+	build_internal/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+project ndk/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project packages/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 7 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project platform/
+On branch master
+nothing to commit, working directory clean
+
+project platform_testing/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project prebuilts/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project release/
+On branch master
+Your branch is up-to-date with 'tinno/master_7.0'.
+
+nothing to commit, working directory clean
+
+project sdk/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project system/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project toolchain/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project tools/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project trusty/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/dolby/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/google/
+HEAD detached at dbdbb90
+nothing to commit, working directory clean
+
+project vendor/mediatek/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 7 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/lk/target/v3911/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/lk/target/v3913/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/lk/target/v3951/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/lk/target/v3953/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/lk/target/v3961/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/lk/target/v3963/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/lk/target/v3971/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/lk/target/v3973/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/lk/target/v3991/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/preloader/custom/v3911/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/preloader/custom/v3913/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/preloader/custom/v3951/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/preloader/custom/v3953/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/preloader/custom/v3961/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/preloader/custom/v3963/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/preloader/custom/v3971/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/preloader/custom/v3973/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/bootable/bootloader/preloader/custom/v3991/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/custom/v3911/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/custom/v3913/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 5 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/custom/v3951/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/custom/v3953/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/custom/v3961/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/custom/v3963/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/custom/v3971/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/custom/v3973/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/mediatek/proprietary/custom/v3991/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/myos/build/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/myos/configs/
+On branch master
+Your branch and 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' have diverged,
+and have 9 and 1 different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 8 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	hw/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+project vendor/tinno/Fingerprint-N/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 4 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3951/audio/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3951/camera/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3951/lcm/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3951/rf/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3953/audio/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3953/camera/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3953/lcm/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3953/rf/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3961/audio/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3961/camera/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3961/lcm/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3961/rf/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3963/audio/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3963/camera/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3963/lcm/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3963/rf/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3971/audio/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3971/camera/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3971/lcm/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3971/rf/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3973/audio/lax_mx/
+On branch master
+Your branch is behind 'tinno/master' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3973/audio/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3973/camera/lax_mx/
+On branch master
+Your branch is behind 'tinno/master' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3973/camera/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3973/lcm/lax_mx/
+On branch master
+Your branch is behind 'tinno/master' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3973/lcm/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3973/rf/lax_mx/
+On branch master
+Your branch is behind 'tinno/master' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/hw/v3973/rf/trunk/
+On branch master
+Your branch is up-to-date with 'tinno/master'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/mdp/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+
+	new file:   p5811/Android.mk
+	new file:   p5811/touchpanel/ft5346_p5811/DJ_V3961_FT5346I_V08_20170503_app.i
+	new file:   p5811/touchpanel/ft5346_p5811/Test_FT5X46.h
+	new file:   p5811/touchpanel/ft5346_p5811/YEJI_FT5346I_V3961_V06_20170503_app.i
+	new file:   p5811/touchpanel/ft5346_p5811/focaltech_ctl.h
+	new file:   p5811/touchpanel/ft5346_p5811/ft5346_apk.h
+	new file:   p5811/touchpanel/ft5346_p5811/ftbin_DJing.h
+	new file:   p5811/touchpanel/ft5346_p5811/ftbin_YEJI.h
+	new file:   p5811/touchpanel/ft5346_p5811/tpd_custom_ft6x06.h
+
+
+project vendor/tinno/tinnoapps/MTKTNGpsWriteNV/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/tinnoapps/PKS/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/tinnoapps/TNGpsMainActivity/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/tinnoapps/TRTHelper/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/tinnoapps/TinnoCabc/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/tinnoapps/TinnoProductInfo/
+On branch master
+Your branch is behind 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/tinnoapps/TouchPal/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/tinnoapps/boost/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/tinnoapps/multi_media_overlay/
+On branch master
+Your branch is behind 'tinno/master' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/tinnoapps/scc/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/tinnoapps/sps/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3911/trunk/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3913/trunk/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3951/trunk/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3953/trunk/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3961/trunk/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3961/trunk_1602/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3963/trunk/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3963/trunk_1603/
+On branch master
+Your branch is up-to-date with 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1'.
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3971/trunk/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3973/lax_mx/
+On branch master
+Your branch is behind 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3973/trunk/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+
+project vendor/tinno/v3991/trunk/
+On branch master
+Your branch is ahead of 'tinno/V3973AN_7.0_LAX_TEL_MX_BR2_VOLTE_V1.1' by 6 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+

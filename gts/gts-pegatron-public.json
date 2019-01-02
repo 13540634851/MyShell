@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "android-partner-api-188019",
+  "private_key_id": "a67a666a22ae7d090c8efd2349836e414f87833b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyocQ06d573jIc\nCTvjimFlYlpIzuogVCZtO34z5uFfSm841JBjP8JdvdaBbf+5L/j8sQUJME0emFYi\n7DDIxEe8Wz+d9K6EMjGOWpf8BBS4ivBJTux1EIPRsqmB+i4b3nWumSdfJ1Qd5J8x\nEM8eZXyhZ3CMGXOcEvS/PnUBuQF859HGItAUFQ7MXeqd2f9OuPnj1ciVwR9IdG2z\nIOVE95Eh8gTFfZMeobQf6/25GtgNuFDaJk2V0yo9oPHMR5VFLrdA9Q13GAcM/tTf\nrFl8E7KuCTuSzYbY/W8IqcyCKfLFtRpUAtvj2eOcYqxiyAAIzXlvRCUKNAdn7eGY\nyGhEC/PrAgMBAAECggEAClzsHw26RIFdctbuTIMIp3MPPc4TMxDuscOTzLsGNBsD\nXM6oGbnnMr0CpruU7E9mKHK0khXlQ3Me/COrqNoKN1kr1aQOQ8kNqu6ChrJN6W7W\nBcq4WQo+O3ob71huOFuthBWKfTCw5pMO0S/idCb7FfoEQ3xugo1u+XFMJG9xMKfB\nOGDhHKj4FR9UQCyFhj2XWFbn1Pm5O1jOZAG2MGpqGGcjuNBWOuEzmT9zIsliiTPD\nI1h4j6ZjujibfK9MuMnJ2jimrsA5k/1PNO4fYcE28/u75QULke1OJBzWhVlgIgmE\n7IPdYHhNxroE+mh+i6fkWwtlxGwhFS8yXwLhVJBh0QKBgQDyQD/eFKZr9VkbL7bz\nb/uhQHEOaphuEmkjkGfbppzwkb4uCPeUCJtNBIqPJ54LDMJ1FVesMG1lT5Js1Aoe\nOba8quY+hjusVwP7F/XH7OWJ6K8FItlvA87BNqysviUQg2OyEhn02dckcfgzAdvm\nup/w9HouIjMcOoyc3gXnK4yozQKBgQC8xSw85y/U7fOdgKs2xvabb+8m/Jgug1b9\nUkDEhr8wMmRPZnfJRbwra2+uP9hI215WGwUKslzJ3xYUkj63izt4f4jjuD1tJUn0\nKJVI+4vW0DbNwEkpiw6fuDOfAy80LO31hQ4T3D7tBHQwoVP/K4oMQSsjfinBeh7o\neCaJwHHvlwKBgCndjKwWqYQyzIl0P4vmqHf/qQoyxdEQAXeR90DwlGLG7TULe63r\nptsyk7eVwyxpshmF7LbnT6CYldeU9YKvurL0XgIkNJ/eEeQNCf7ZI/onakfa8/TJ\nlauyhTj9S26FJm+ZzT6RfyrfP2OhSJ2hVw7PUWYzpt2UCMT7Yc3HqvFpAoGALP/3\n7sDR9zmOVKKirhk6Go3RfgLDKHto1lSwWekhVJT+sqrjrVhxZgxjgC96GMwqre4d\nApLIadtDgT3ns4t+bthAQsDd69Hy0kCGbfKBQIE8P0oyZrPelZasv6BbtV1skJXa\naEOdwJTKOfmLc43mh8tVRE3EGHpLOfHChh4ZSxsCgYEA2vYim+U7THlqq2e/jRwn\nBicEhFENTRoMxV1Rr+XID9fMG7LUcC+z6cWwOoWM1rqrrJzDkZWDb8ni6VVxFBn7\nSZRpLH071X+iIZQ92dJ9b/T7rIXvxOG7hQHPt8sIWzLfDNLhVkcz+LFcuuGn5OBm\nSP3C4JVdwYDIVcyi3YK8TNk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gts-pegatron-public@android-partner-api-188019.iam.gserviceaccount.com",
+  "client_id": "101428534794871682125",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gts-pegatron-public%40android-partner-api-188019.iam.gserviceaccount.com"
+}

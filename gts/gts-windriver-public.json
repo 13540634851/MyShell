@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "android-partner-api-188019",
+  "private_key_id": "a5f5b2b388f5a080a73bd5e234f1b7557bdfd34e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDekxi0UGTMaxFt\na7UsaYWzZaDyCYLt52mBkWDFDgzOd+R23nGq/mOIxxRSOKoEVrgmHTl8vFL8PeRW\n29iy91nmX+auY97dXYAf4d6ALun4ILulVAiJT1dtTpsj06IRztrn3sF4m9b7qUAr\n8LTtlKhIy0gKfv+tCX0fXX3EuUlmYICYO6ALGphHKGgXqwh2zYb6RTrv+uZy+O0/\nB+eX47dGxjDSfo0QbSRXp8l9tzWC/5WkuUYpDK0pPenIZnFOENdGkXhyhqw2TxP3\nDPjQ8BuMGTw2nRU9bk1HhXNTC3ttUpvqyhYruc1fENM8lha/W7ij4yn/7zZkmask\ntE7qWgXvAgMBAAECggEATuSY9yEf+Y1iCgUJnQpyR9qYJ/LTI/zI2xJq2K5YP78j\njjbe15uAMHVQcKyBJzSN5YSqYdpnF93gWCFpOFaQ2SXZIKtpzdFcnvBy68C1UixY\nFwwoUnN7K9WXDCXx5poJ4fKFZXjnxSCDDJAvsZ7l35eem4nUmsMoRLvg3qBGsjCN\nCfujpBDg9mlPj3kkxtGHFjItIOZrJY82u5j3yVdkZxIjdzAHJg4zcHx1BNZmsWBY\nIwBKekLISojs0OSeGFNfh8QE6G6vZ6EKIASB9DEs5BjquOlbsw846kiYE6aQ2C78\nBIs27mUEyjDPvFeOTsYyKUmFhSKO83EW82F8dvF5kQKBgQD/RT5R36JmIAnAgxyM\nji2O7jhaYjh3JlSJ/aiBbERmrJNU10GCoV2ukYOqd4byUOVX+sblsH0MSmsWBeN+\n99GESIKu48jKFDW5mTbE4+tbESLDY8qsg2v4FOpRRhf+V6Flm9iM7ZRv/rwOjH74\n8l1i5Q3ZsKcHYhYObu5wKJpt7QKBgQDfNe7DRiegbdg2ri6PqEkQfjS72DH1gQdC\nDbDpWhIVFoXhPAVc4uPkQVkzOJRU1J4R/KNNKEw+nxz6fKZEQDwbnT0s0qcjrZaW\n8bMBKLETB6YxCiSAyklvhPoDY71JIIm8RohSGhD22k61Py9PRyiClNmDuQ2kqW0V\nHKcrYwTnywKBgQDxRYo0qlH9grSU75dxRgTLfl9nFkTWYTUwQ78brLAt91k9rEKv\n7EL2d3TiDx1ONKXAdTe+6wQWNNRoOWKfpC20gTB7irJCRb3N0YGRsPbH2TdpRA3Q\n5lqLXYFnFgAhlsPmnNmdwgQ1oqgufB6av8ECcwqXQb9tXAkK1VCqU8Y6tQKBgQCL\noyrOQMozg+RaONdqCaZDyiBlT1fZtTF8MiJ1qWJcjO2OPUVBmbNlrTgHYiLxet20\ndO8YKtif6Fxxm59MXT79K34E13e2SzdFEMmiNPmp5QQj86toYqRUPsVFb5UP9WoV\nPa60Zhgsxd+tZWzMVMDUCBiXXiJZ26AhL/6oltaPxwKBgQCDXrvu9ktWjIacXJi2\nE0EdShQRNG1B3aqd+0SYUAXgp0ewNDa0PRdNJoSOO0PsnDbA+zkahxnBu2OJBTHk\nzjSXIfl4rSc8DaIZNboAk8dMNH7bvGboc1FHbKcIxXDri0i2LF0ibJcHUBnqFJ1I\nNpfb00iWn26xzt/nK82Iv+ehMQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gts-windriver-public@android-partner-api-188019.iam.gserviceaccount.com",
+  "client_id": "103969129403625881692",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gts-windriver-public%40android-partner-api-188019.iam.gserviceaccount.com"
+}

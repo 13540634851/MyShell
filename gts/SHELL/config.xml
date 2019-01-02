@@ -1,0 +1,9 @@
+<setting>
+<defaultfile>./uncommit.log</defaultfile>
+<skip>Your branch is up-to-date</skip>
+<savefile>test.log</savefile>
+<cacheline>8</cacheline>
+<showlog>false</showlog>
+<recordname>project</recordname>
+<divide>===========</divide>
+</setting>

@@ -1,0 +1,2 @@
+#!/bin/sh
+adb pull /storage/emulated/0/verifierreports/
