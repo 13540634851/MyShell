@@ -1,0 +1,24 @@
+
+#BEGIN GMS Eviroment
+export CTS_ENV=/home/android/cts环境
+export PATH=${JAVA_HOME}/bin:$PATH
+export PATH=${PATH}:${CTS_ENV}/platform-tools
+export PATH=${PATH}:${CTS_ENV}/27.0.1
+#export APE_API_KEY=/home/gts/key.json
+export APE_API_KEY=/home/gts/gts-fih-public.json
+#export APE_API_KEY=/home/gts/gts-harman-public.json
+#export APE_API_KEY=/home/gts/gts-mtk.json
+#export APE_API_KEY=/home/gts/gts-pegatron-public.json
+#export APE_API_KEY=/home/gts/gts-windriver-public.json
+
+#END
+
+
+sudo apt-get install python-dev python-protobuf protobuf-compiler python-virtualenv python-pip
+
+安装：
+sudo apt-get install python-dev
+sudo apt-get install python-protobuf
+sudo apt-get install protobuf-compiler
+sudo apt-get install python-virtualenv
+sudo apt-get install python-pip
